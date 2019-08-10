@@ -1,1 +1,2 @@
-#Project to Understand Git
+#Project to Understand GitHub.
+Changed from GitHub
